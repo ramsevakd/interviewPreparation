@@ -1,0 +1,55 @@
+------ProtoBuff vs ProtoStuff vs Normal Serialization---(Space, Interoperability)
+       ----Inheritance
+       ----Association
+ 
+ 
+----MultiThreading(future.get And Other stubs and what if future.get fails in a loop)
+    reEntrantLock
+    AtomicInteger
+    Blocking Queue Implementation And ConcurrentCurrent Collections(Locking)
+ 
+ 
+ 
+ 
+----ThreadPooling
+    ExecutorServices
+ 
+ 
+ 
+---HashMap And Collection Impl
+ 
+ 
+ 
+ 
+---BigDecimal vs Long vs Float
+ 
+ 
+ 
+ 
+--Marker Interfaces (Cloneable,Serializable) And Immutable
+          --Why cloneable not recommended to be used
+          --SerializationPoints
+
+ 
+Java Basics
+Static , Interfaces , Classes, 
+ 
+Java Collections
+ 
+Java Generics
+ 
+Java 8 Changes
+ 
+Java Concurrency and Threading
+ 
+Java Memory Model and GC
+ 
+Java Reflections
+ 
+ 
+---JVM (classloaders)
+ 
+--JAVA IO
+ 
+--Design Patterns
+
